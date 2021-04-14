@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "43004883907",
+    "project_id": "arvind-rnd-app",
+    "storage_bucket": "arvind-rnd-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43004883907:android:3c17479756c1bce315c376",
+        "android_client_info": {
+          "package_name": "com.arvind.ifa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43004883907-m2ff3na6ir5krth1701invb2lh4iqg70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQspN96MQNDWJelkhdstsji5WaCY0_svs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43004883907-m2ff3na6ir5krth1701invb2lh4iqg70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43004883907:android:921b7461260018ef15c376",
+        "android_client_info": {
+          "package_name": "com.devdactic.devpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43004883907-m2ff3na6ir5krth1701invb2lh4iqg70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQspN96MQNDWJelkhdstsji5WaCY0_svs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43004883907-m2ff3na6ir5krth1701invb2lh4iqg70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43004883907:android:db2994168d12b98115c376",
+        "android_client_info": {
+          "package_name": "com.telemedicine.nsdl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43004883907-m2ff3na6ir5krth1701invb2lh4iqg70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQspN96MQNDWJelkhdstsji5WaCY0_svs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43004883907-m2ff3na6ir5krth1701invb2lh4iqg70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43004883907:android:f8c8b362b5cb38d915c376",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43004883907-m2ff3na6ir5krth1701invb2lh4iqg70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQspN96MQNDWJelkhdstsji5WaCY0_svs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43004883907-m2ff3na6ir5krth1701invb2lh4iqg70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
